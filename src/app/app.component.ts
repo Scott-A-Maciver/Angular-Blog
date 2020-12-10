@@ -4,7 +4,10 @@
 *  assignment has been copied manually or electronically from any other source (including web sites) or 
 *  distributed to other students.
 * 
-*  Name: Scott Maciver Student ID: 102205184 Date: 2020-11-28
+*  Name: Scott Maciver Student ID: 102205184 Date: 2020-12-10
+*
+*  Online Link: https://smaciv1-web422.netlify.app/home
+*
 *************************************************************************************************************/
 
 import { Component } from '@angular/core';
